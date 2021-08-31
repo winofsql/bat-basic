@@ -4,7 +4,7 @@
 ```javascript
     "code-runner.showRunIconInEditorTitleMenu": false
 ```
-## .vscode/settings.json
+## .vscode/settings.json( workspace-set.bat で作成 )
 ```javascript
 { 
     "code-runner.showRunIconInEditorTitleMenu": true, 
